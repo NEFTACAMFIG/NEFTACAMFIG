@@ -5,6 +5,8 @@ I working with include Python, MySQL, SQLite and Postman. I’m so interested in
 Learning Engineer.
 
 ## You can find me in... :dart::dart::dart: 
+
+-:mortar_board: [LinkedIn](https://www.linkedin.com/in/neftacamfig/)
 <!--
 **NEFTACAMFIG/NEFTACAMFIG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
