@@ -3,6 +3,8 @@
 I’m a Data Scientist in process who is passionate in Data and making analysis with them to solve problems and make decissions. Some of the technologies
 I working with include Python, MySQL, SQLite and Postman. I’m so interested into involve in the Machine Learning subject in order to become a Machine
 Learning Engineer.
+
+## You can find me in... :dart::dart::dart: 
 <!--
 **NEFTACAMFIG/NEFTACAMFIG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
