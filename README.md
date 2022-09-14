@@ -6,7 +6,9 @@ Learning Engineer.
 
 ## You can find me in... :dart::dart::dart: 
 
--:mortar_board: [LinkedIn](https://www.linkedin.com/in/neftacamfig/)
+-:mortar_board: [My Personal LinkedIn](https://www.linkedin.com/in/neftacamfig/)
+-:sunrise_over_mountains: [Instagram](https://www.instagram.com/nefta_camfig/)
+-:triangular_ruler:[I’m studyng in ...](https://campus.devf.la/alumni/profile)
 <!--
 **NEFTACAMFIG/NEFTACAMFIG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
