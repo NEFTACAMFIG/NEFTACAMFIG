@@ -20,7 +20,7 @@ I am excited to collaborate on projects that push the boundaries of what's possi
 
 - :mortar_board: [My Personal LinkedIn](https://www.linkedin.com/in/neftacamfig/)
 - :sunrise_over_mountains: [Instagram](https://www.instagram.com/nefta_camfig/)
-- :triangular_ruler:[I’m studyng in ...](https://campus.devf.la/alumni/profile)
+- :triangular_ruler:[I studied in ...](https://campus.devf.la/alumni/profile)
 <!--
 **NEFTACAMFIG/NEFTACAMFIG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
