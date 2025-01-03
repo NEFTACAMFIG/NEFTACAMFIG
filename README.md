@@ -2,7 +2,7 @@
 
 🚀 Data Science & Machine Learning Enthusiast
 
-Hello! I'm a dedicated and dynamic Data Scientist with a robust foundation in data analysis and a fervent passion for extracting insights and fostering informed decision-making through data. With a comprehensive education in Data Science from DEV.F and an ever-expanding toolkit of technical skills, I am on a continuous journey of growth in this fascinating field.
+Hello! I'm a dedicated and dynamic Data Analyst with a robust foundation in data analysis and a fervent passion for extracting insights and fostering informed decision-making through data. With a comprehensive education in Data Science from DEV.F and an ever-expanding toolkit of technical skills, I am on a continuous journey of growth in this fascinating field.
 
 What I Bring to the Table:
 
